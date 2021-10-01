@@ -320,13 +320,7 @@ I have a solid background in designing and developing complex web applications. 
  <code>Frontend Developer</code>
  <code>Javascript</code>
  <code>React Js</code>
- <code>Backend Developer</code>
- <code>Node Js</code>
- <code>Express Js</code>
- <code>Mongo DB</code>
- <code>Firebase</code>
- <code>MERN Stack Developer</code>
- <code>Full Stack Developer</code>
+ 
 </div>
     
 </details>
